@@ -1,4 +1,4 @@
-![me](https://github.com/user-attachments/assets/1c590a19-e992-4993-bde3-b97393dd3a86)
+<!--<p align="center"> <img src="https://github.com/user-attachments/assets/1c590a19-e992-4993-bde3-b97393dd3a86" width="200" height="200"/>-->
 
 <h1 align="center">Hi, I'm Eli 👨🏻‍💻 an aspiring software engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emh68&label=Profile%20views&color=0e75b6&style=flat" alt="emh68" /> </p>
