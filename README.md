@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, C, Java and Kotlin**
 
-- 👯 I’m looking to collaborate on **Ecoloco**
+<!--- 👯 I’m looking to collaborate on **Ecoloco**-->
 
 - 🤪 In my free time, you can find me here 🏝️🍹⛱️🌞 🌊
 
