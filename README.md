@@ -28,7 +28,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://worldvectorlogo.com/logo/java-4 title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </p>
 
 ---
