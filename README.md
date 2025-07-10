@@ -3,9 +3,9 @@
 <h1 align="center">Hi, I'm Eli 👨🏻‍💻 an aspiring software engineer</h1>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=emh68&label=Profile%20views&color=0e75b6&style=flat" alt="emh68" /> </p>-->
 
-- 🔭 I’m currently working on a project to help the blind navigate in real-time called **Ecoloco**
+- 🔭 I’m currently working on a project to help the blind navigate in real-time called **Ecoloco** and a modular smart plant care system
 
-- 🌱 I’m currently learning **C++, C, Java and Kotlin**
+- 🌱 I’m currently learning **Java and Kotlin**
 
 <!--- 👯 I’m looking to collaborate on **Ecoloco**-->
 
