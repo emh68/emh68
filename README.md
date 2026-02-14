@@ -81,8 +81,8 @@
 | **Experience With** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dotnet" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="25"/> |
 | **Currently Learning** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" width="25"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" width="25"/> | --->
 ---
-### 📊 GitHub Insights
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=emh68&show_icons=true)
+<!-- ### 📊 GitHub Insights
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=emh68&show_icons=true) -->
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emh68&layout=compact&theme=transparent)
