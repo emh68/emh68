@@ -85,6 +85,6 @@
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=emh68&show_icons=true)-->
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emh68&layout=compact&theme=transparent)
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emh68&layout=compact&theme=transparent)
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=emh68&show_icons=true&theme=transparent&hide_border=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=emh68&show_icons=true&theme=transparent&hide_border=true)-->
