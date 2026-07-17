@@ -1,6 +1,6 @@
 # Eli Hansen
 
-A software developer focused on building clean, efficient, and impactful digital solutions. Experienced in full-stack development, logic design, and system automation.
+A software developer focused on embedded systems and hardware integration. I enjoy writing code that provides real world solutions by combining hardware and software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elihansen1/)
 
