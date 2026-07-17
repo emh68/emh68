@@ -6,24 +6,31 @@ A software developer focused on embedded systems and hardware integration. I enj
 
 ---
 
-## 🚀 Core Technologies
+## Technical Skillset
 
-### Languages & Frameworks
-* **Backend & Logic:** Python, C#, Node.js, C++
-* **Frontend & Web:** JavaScript, Blazor, HTML5 / CSS3
-* **Frameworks:** .NET Core
+### Primary Focus
+* **Languages:** C++, Python
+* **Hardware Platforms:** Arduino, Raspberry Pi
+* **Systems Integration:** Sensor data collection, environmental monitoring automation
 
-### Cloud, Databases & Ecosystem
-* **Cloud & DevOps:** AWS, Microsoft Azure, Git, Linux
-* **Databases:** PostgreSQL, MySQL
-* **Hardware & IoT:** Arduino, Raspberry Pi
+### Additional Language Exposure
+* **Object-Oriented & Scripting:** JavaScript, C#, Java, Kotlin
+*(from academic projects and coursework)*
 
+### Technologies & Databases
+* **Databases & Cloud Storage:** Firebase, AWS DynamoDB, MongoDB, PostgreSQL, MySQL
+* **Tools & Environments:** Git, Linux, Node.js
 ---
 
-## 🛠️ Featured Repositories
-* 📂 **Word-to-PDF Converter** – A streamlined Python utility for document conversion.
-* 📂 **Keyboard Doodle** – An interactive Etch-a-Sketch style graphics application written in Python.
-* 📂 **Smart Plant Care System (V3)** – An automated, modular environmental control system built with C++.
+## Featured Repositories
+* **[Smart Plant Care System (V3)](https://github.com/emh68/smart-plant-care-system-esp32-s3-v3)**  
+  An automated, modular environmental control system built using C++ to monitor plant health through sensor feedback. Features integration with Firebase and AWS DynamoDB for plant profile data.
+
+* **[Word-to-PDF Converter](https://github.com/emh68/word-to-pdf-converter)**  
+  A Python utility for automating local document conversions.
+
+* **[Quiz Game](https://github.com/emh68/quiz-game-tkinter)**  
+  An interactive, GUI-based quiz game built with Python using the Tkinter GUI toolkit and Pillow for image processing.
 
 ---
 *Feel free to explore my repositories or reach out via LinkedIn to discuss software engineering, automation, or collaboration.*
