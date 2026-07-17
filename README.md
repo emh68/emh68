@@ -8,16 +8,11 @@ A software developer focused on embedded systems and hardware integration. I enj
 
 ## Technical Skillset
 
-### Primary Focus
-* **Languages:** C++, Python
+* **Primary Languages:** C++, Python
 * **Hardware Platforms:** Arduino, Raspberry Pi
 * **Systems Integration:** Sensor data collection, environmental monitoring automation
-
-### Additional Language Exposure
-* **Object-Oriented & Scripting:** JavaScript, C#, Java, Kotlin
+* **Additional Languages:** JavaScript, C#, Java, Kotlin
 *(from academic projects and coursework)*
-
-### Technologies & Databases
 * **Databases & Cloud Storage:** Firebase, AWS DynamoDB, MongoDB, PostgreSQL, MySQL
 * **Tools & Environments:** Git, Linux, Node.js
 ---
