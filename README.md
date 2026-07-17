@@ -23,6 +23,7 @@ A software developer focused on embedded systems and hardware integration. I enj
 ---
 
 ## Featured Repositories
+
 * **[Smart Plant Care System (V3)](https://github.com/emh68/smart-plant-care-system-esp32-s3-v3)**  
   An automated, modular environmental control system built using C++ to monitor plant health through sensor feedback. Features integration with Firebase and AWS DynamoDB for plant profile data.
 
